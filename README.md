@@ -11,7 +11,8 @@ strapi develop
 http://localhost:1337/admin
 
 https://blog.octo.com/graphql-et-pourquoi-faire/
-yarn add @nuxtjs/apollo
-yarn strapi install graphql
+./frontend> yarn add @nuxtjs/apollo
+./backend>  yarn strapi install graphql
 
-yarn add moment 
+./frontend> yarn add dayjs 
+./frontend> yarn add vuelidate

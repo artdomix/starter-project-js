@@ -17,10 +17,11 @@
     "@nuxtjs/axios": "^5.12.2",
     "@nuxtjs/pwa": "^3.0.2",
     "core-js": "^3.6.5",
+    "dayjs": "^1.9.6",
     "graphql": "^15.3.0",
-    "moment": "^2.29.1",
     "nuxt": "^2.14.6",
     "nuxt-buefy": "^0.4.3",
+    "standard": "^16.0.3",
     "vuelidate": "^0.7.5"
   },
   "devDependencies": {
