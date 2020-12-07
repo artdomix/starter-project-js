@@ -15,4 +15,5 @@ https://blog.octo.com/graphql-et-pourquoi-faire/
 ./backend>  yarn strapi install graphql
 
 ./frontend> yarn add dayjs 
+./frontend> yarn add standard
 ./frontend> yarn add vuelidate
